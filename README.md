@@ -10,9 +10,7 @@
 
 ## About me
 
-AI Engineer at [Lookalike](https://lookalike.com) building production RAG pipelines, agentic LLM systems, and multimodal search at scale. I work across the full AI delivery stack — from hybrid retrieval architecture and vector search to ETL orchestration and cloud deployment on AWS and GCP.
-
-Currently processing 830K+ product records/day, serving 1,000+ AI conversations/month, and targeting my next role where AI engineering meets real product impact.
+AI Engineer at [Lookalike](https://lookalikeapp.ai) building production AI systems for fashion-tech e-commerce. I architect Hybrid RAG pipelines combining vector search (Vertex AI embeddings + pgvector) with BM25 keyword retrieval, engineer ETL pipelines processing 830K+ product records/day across Amazon and eBay, and ship LLM-powered systems like a WhatsApp AI assistant serving 1,000+ conversations/month. Currently building MCP servers to expose company databases and internal data to LLM agents.
 
 **Open to AI/ML Engineer roles in Milan.**
 
@@ -62,8 +60,8 @@ Currently processing 830K+ product records/day, serving 1,000+ AI conversations/
 
 | | |
 |---|---|
-| 🔭 Working on | Production RAG + voice search system at Lookalike (ElevenLabs STT + Vertex AI + pgvector) |
-| 🌱 Learning | LangGraph multi-agent orchestration, AWS Solutions Architect (SAA-C03) |
+| 🔭 Working on | MCP servers for company databases + internal data at Lookalike; Hybrid RAG (vector + BM25) in production |
+| 🌱 Learning | LangGraph multi-agent orchestration, MCP protocol, AWS Solutions Architect (SAA-C03) |
 | 📍 Location | Milan, Italy |
 | 💼 Status | **Open to work** — AI/ML Engineer roles in Milan |
 
@@ -134,7 +132,7 @@ CI/CD-driven ETL system synchronising 30K Amazon + 800K eBay product records dai
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Magesh-Sundaravel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magesh-Sundaravel&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magesh-Sundaravel&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,css,javascript,typescript,shell" />
 
 <img src="https://streak-stats.demolab.com?user=Magesh-Sundaravel&theme=dark&hide_border=true" />
 
