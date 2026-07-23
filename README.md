@@ -138,7 +138,7 @@ Designed as an agentic workflow that can run locally or on AWS using serverless 
 
 **Core stack**
 
-`LLM Agents` `AWS Lambda` `Step Functions` `EC2` `Serper API`
+`LLM` `Agents` `AWS Lambda` `Step Functions` `EC2` `Serper API`
 
 [View repo →](https://github.com/Magesh-Sundaravel/ai-lead-gen-agent)
 
@@ -153,7 +153,7 @@ Developed **solo in 6 hours** during the Yellow × Cursor Hackathon in Milan, wi
 
 **Core stack**
 
-`LangGraph` `Llama 3.3 70B` `BM25` `RAGAS` `D3.js`
+`LangGraph` `Llama 3.3 70B` `BM25` `RAGAS` 
 
 [View repo →](https://github.com/Magesh-Sundaravel/agentic-company-brain)
 
