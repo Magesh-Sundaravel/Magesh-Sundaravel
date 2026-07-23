@@ -91,7 +91,7 @@ My current focus is on **RAG architecture, AI agents, LLM evaluation & observabi
 
 ---
 
-## Featured Projects
+## ## Featured Projects
 
 <table>
 <tr>
@@ -112,17 +112,17 @@ Designed beyond a basic RAG demo with emphasis on reliability, evaluation, deplo
 </td>
 <td width="50%" valign="top">
 
-### 💰 FINAI
+### 💰 FinAI — Finance AI Agents
 
-AI-powered financial intelligence system designed to combine **LLMs, financial data processing, retrieval, and intelligent analysis**.
+AI-powered personal finance platform that automatically **parses, categorises, and analyses expenses** using intelligent agents.
 
-Focused on building reliable AI workflows for understanding and interacting with financial information.
+Features Gemini-powered receipt OCR, a secured **Text-to-SQL agent**, multi-year expense analysis, PostgreSQL and production deployment on Google Cloud Run.
 
 **Core stack**
 
-`Python` `LLMs` `RAG` `FastAPI` `PostgreSQL` `Docker`
+`Python` `FastAPI` `Gemini` `PostgreSQL` `GCS` `Cloud Run` `React` `TypeScript`
 
-[View GitHub →](https://github.com/Magesh-Sundaravel)
+[View repo →](https://github.com/Magesh-Sundaravel/FinAI)
 
 </td>
 </tr>
@@ -132,36 +132,37 @@ Focused on building reliable AI workflows for understanding and interacting with
 
 ### 🤖 Agentic Lead Generation
 
-End-to-end agentic workflow for automated lead generation — from prospect discovery and qualification to LLM-based scoring and personalised outreach generation.
+Autonomous AI pipeline that **discovers leads, evaluates prospects using LLMs, and generates personalised cold emails**.
 
-Designed around autonomous workflow execution with minimal manual intervention.
+Designed as an agentic workflow that can run locally or on AWS using serverless orchestration.
 
 **Core stack**
 
-`Python` `LangChain` `LLMs` `Serper API` `AWS Lambda` `EC2`
+`Python` `LLMs` `Agentic AI` `AWS Lambda` `Step Functions`
 
-[View GitHub →](https://github.com/Magesh-Sundaravel)
+[View repo →](https://github.com/Magesh-Sundaravel/ai-lead-gen-agent)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Anomaly Detection
 
-MLOps-oriented anomaly detection pipeline using statistical detection techniques with **MLflow experiment tracking, reproducible training, evaluation, and deployment workflows**.
+Machine learning pipeline for **time-series anomaly detection**, combining statistical detection techniques with reproducible ML experimentation and evaluation.
 
-Implements Z-score and IQR-based detection with structured model evaluation.
+Built with an MLOps-oriented structure for experiment tracking, model evaluation, and maintainable ML workflows.
 
 **Core stack**
 
 `Python` `scikit-learn` `Pandas` `NumPy` `MLflow`
 
-[View GitHub →](https://github.com/Magesh-Sundaravel)
+[View repo →](https://github.com/Magesh-Sundaravel/anomaly_detection)
 
 </td>
 </tr>
 </table>
 
----
+-------
+
 
 ## GitHub Stats
 
