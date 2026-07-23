@@ -145,17 +145,17 @@ Designed as an agentic workflow that can run locally or on AWS using serverless 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Anomaly Detection
+### 🧠 Agentic Company Brain
 
-Machine learning pipeline for **time-series anomaly detection**, combining statistical detection techniques with reproducible ML experimentation and evaluation.
+Built a **multi-source enterprise AI agent** that answers natural-language questions across CRM, ERP, call logs, and internal company knowledge.
 
-Built with an MLOps-oriented structure for experiment tracking, model evaluation, and maintainable ML workflows.
+Developed **solo in 6 hours** during the Yellow × Cursor Hackathon in Milan, with dynamic tool routing, grounded responses, source attribution, knowledge-graph visualization, and RAGAS evaluation.
 
 **Core stack**
 
-`Python` `scikit-learn` `Pandas` `NumPy` `MLflow`
+`Python` `FastAPI` `LangGraph` `Llama 3.3 70B` `BM25` `RAGAS` `D3.js`
 
-[View repo →](https://github.com/Magesh-Sundaravel/anomaly_detection)
+[View repo →](https://github.com/Magesh-Sundaravel/agentic-company-brain)
 
 </td>
 </tr>
