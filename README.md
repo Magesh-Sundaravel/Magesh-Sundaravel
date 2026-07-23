@@ -91,7 +91,7 @@ My current focus is on **RAG architecture, AI agents, LLM evaluation & observabi
 
 ---
 
-## ## Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -105,7 +105,7 @@ Designed beyond a basic RAG demo with emphasis on reliability, evaluation, deplo
 
 **Core stack**
 
-`Python` `FastAPI` `LangChain` `pgvector` `PostgreSQL` `Redis` `Docker` `Kubernetes` `OpenTelemetry`
+`LangChain` `pgvector` `PostgreSQL` `Redis` `Docker` `Kubernetes` `OpenTelemetry`
 
 [View repo →](https://github.com/Magesh-Sundaravel/rag-platform)
 
@@ -120,7 +120,7 @@ Features Gemini-powered receipt OCR, a secured **Text-to-SQL agent**, multi-year
 
 **Core stack**
 
-`Python` `FastAPI` `Gemini` `PostgreSQL` `GCS` `Cloud Run` `React` `TypeScript`
+`Gemini` `Text-to-SQL` `PostgreSQL` `GCS` `Cloud Run` `React`
 
 [View repo →](https://github.com/Magesh-Sundaravel/FinAI)
 
@@ -138,7 +138,7 @@ Designed as an agentic workflow that can run locally or on AWS using serverless 
 
 **Core stack**
 
-`Python` `LLMs` `Agentic AI` `AWS Lambda` `Step Functions`
+`LLM Agents` `AWS Lambda` `Step Functions` `EC2` `Serper API`
 
 [View repo →](https://github.com/Magesh-Sundaravel/ai-lead-gen-agent)
 
@@ -153,13 +153,14 @@ Developed **solo in 6 hours** during the Yellow × Cursor Hackathon in Milan, wi
 
 **Core stack**
 
-`Python` `FastAPI` `LangGraph` `Llama 3.3 70B` `BM25` `RAGAS` `D3.js`
+`LangGraph` `Llama 3.3 70B` `BM25` `RAGAS` `D3.js`
 
 [View repo →](https://github.com/Magesh-Sundaravel/agentic-company-brain)
 
 </td>
 </tr>
 </table>
+
 
 -------
 
