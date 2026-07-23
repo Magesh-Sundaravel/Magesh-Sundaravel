@@ -29,8 +29,6 @@ My current focus is on **RAG architecture, AI agents, LLM evaluation & observabi
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
 
-**Python · SQL · C++ · Bash**
-
 ### ML / Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
@@ -41,7 +39,6 @@ My current focus is on **RAG architecture, AI agents, LLM evaluation & observabi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 
-**PyTorch · TensorFlow · Hugging Face Transformers · scikit-learn · NumPy · Pandas · OpenCV · NLP · Text Classification · Entity Extraction**
 
 ### GenAI & LLM
 
@@ -52,7 +49,6 @@ My current focus is on **RAG architecture, AI agents, LLM evaluation & observabi
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square\&logo=anthropic\&logoColor=white)
 
-**LangChain · LangGraph · CrewAI · OpenAI API · Cohere API · Vertex AI · Claude API · Prompt Engineering · LoRA / QLoRA · Agentic Systems · AI Copilot Development**
 
 ### RAG & Vector Search
 
@@ -60,14 +56,12 @@ My current focus is on **RAG architecture, AI agents, LLM evaluation & observabi
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 
-**RAG Pipelines · Hybrid Retrieval · Dense Embeddings · Semantic Search · BM25 · Cross-Encoder Re-ranking · Metadata Filtering · Qdrant · pgvector · Redis**
 
 ### LLM Evaluation & Observability
 
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square\&logo=opentelemetry\&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square\&logo=mlflow\&logoColor=white)
 
-**Retrieval Accuracy Evaluation · LLM-as-Judge · Prompt/Response Monitoring · OpenTelemetry Tracing · Inference Cost Optimisation · Latency Optimisation**
 
 ### MLOps, Cloud & Databases
 
@@ -82,10 +76,6 @@ My current focus is on **RAG architecture, AI agents, LLM evaluation & observabi
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
-**FastAPI · REST APIs · Docker · Kubernetes · GitHub Actions CI/CD · MLflow · AWS · GCP · PostgreSQL · Redis · Linux · Nginx**
-
-AWS: Lambda · EC2 · S3 · ECR
-GCP: GCE · GCS · Vertex AI · Artifact Registry
 
 ---
 
