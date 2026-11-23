@@ -1,210 +1,94 @@
-<div align="center">
+# Hi, I'm Magesh 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%7C+LLM+%26+RAG+Systems;Building+production-grade+AI+systems;Agentic+AI+%7C+RAG+%7C+MLOps;LangGraph+%7C+FastAPI+%7C+Cloud&font=Fira+Code&center=true&width=600&height=50&color=0476D0&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+**AI Engineer · RAG · AI Agents · Agentic AI** · Pavia / Milan, Italy
 
-### AI systems that ship — not just prototypes.
+> AI systems that ship, not just prototypes.
 
-</div>
+I build production LLM systems: hybrid retrieval pipelines, tool-calling agents, voice agents, and the data pipelines that feed them. I spent a year as the **sole engineer** at a Milan fashion-tech startup, taking AI features from idea to production.
 
----
-
-## About me
-
-AI Engineer focused on building **production-grade LLM, RAG, Agentic AI, and ML systems**.
-
-I have hands-on experience building production AI applications, including hybrid retrieval systems combining dense vector search, BM25, metadata filtering, and cross-encoder re-ranking; LLM-powered assistants; agentic workflows; and large-scale data pipelines.
-
-My current focus is on **RAG architecture, AI agents, LLM evaluation & observability, MLOps, and cloud-native AI systems**.
-
-**Open to AI Engineer / ML Engineer / GenAI Engineer roles in Milan, Italy.**
+🟢 **Open to AI Engineer / GenAI Engineer roles in Milan. Available now.**
 
 ---
 
-## Technical Skills
+## 💼 Experience
 
-### Languages
+**AI Engineer · Lookalike S.r.l. (Multimodal AI Shopping), Milan** · *May 2025 – May 2026*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
-
-### GenAI & Agentic AI
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=chainlink\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square\&logo=chainlink\&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat-square\&logo=openai\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square\&logo=anthropic\&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square\&logo=cohere\&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square)
-![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7B61FF?style=flat-square)
-
-### RAG & Retrieval
-
-![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-4B5563?style=flat-square)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-2563EB?style=flat-square)
-![BM25](https://img.shields.io/badge/BM25-555555?style=flat-square)
-![Dense Embeddings](https://img.shields.io/badge/Dense%20Embeddings-7C3AED?style=flat-square)
-![Re-ranking](https://img.shields.io/badge/Cross--Encoder%20Re--ranking-9333EA?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square\&logo=qdrant\&logoColor=white)
-
-### ML / Deep Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
-
-### LLM Evaluation & Observability
-
-![RAGAS](https://img.shields.io/badge/RAGAS-4F46E5?style=flat-square)
-![LLM-as-Judge](https://img.shields.io/badge/LLM--as--Judge-6366F1?style=flat-square)
-![Retrieval Evaluation](https://img.shields.io/badge/Retrieval%20Evaluation-2563EB?style=flat-square)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square\&logo=opentelemetry\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square\&logo=mlflow\&logoColor=white)
-
-### MLOps & Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-
-### Cloud & Data
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+- **Voice-driven product search:** designed and deployed a hybrid retrieval pipeline (multilingual embeddings + BM25 + RRF fusion + reranking) over a multi-million product catalog, with a large recall gain over a vector-only baseline.
+- **Catalog ETL:** built the pipeline that pulls Amazon and eBay product data into one unified catalog, with rate-limit retries and deduplication.
+- **Agentic customer support:** built a support agent on Amazon Bedrock that reads tickets, calls order/shopping APIs, handles order updates, refunds and human escalation, and routes between models to keep costs down.
 
 ---
 
-## Currently
+## 🚀 Featured Projects
 
-|              |                                                                  |
-| ------------ | ---------------------------------------------------------------- |
-| 🔭 Building  | Production-grade RAG platforms and Agentic AI systems            |
-| 🧠 Exploring | LLM evaluation, observability, multi-agent orchestration and MCP |
-| 🌱 Learning  | AWS Solutions Architect (SAA-C03)                                |
-| 📍 Location  | Milan, Italy                                                     |
-| 💼 Status    | **Open to work** — AI / ML / GenAI Engineer roles                |
+### 🎨 [creative-ops-agent](https://github.com/Magesh-Sundaravel/creative-ops-agent) · *in progress*
+Agentic system that takes a fashion/lifestyle creative brief from intake to agency handoff.
+- Extracts structured fields from messy briefs, lists what the client left out, and flags when a human must review. Missing fields are computed in code, not guessed by the model.
+- Hand-written agent loop on the Claude API (no frameworks), with a coordinator, specialist subagents and a mock MCP client stack.
+- **Stack:** Python · Claude API · MCP · Pydantic · FastAPI · Streamlit · pytest
 
----
+### 📞 [hotel-voice-agent](https://github.com/Magesh-Sundaravel/hotel-voice-agent) · *in progress*
+24/7 AI hotel receptionist that answers phone calls in Italian and English.
+- ElevenLabs Agents handle speech and turn-taking. FastAPI tool webhooks check availability and rates, create/modify/cancel bookings, send Gmail confirmations with `.ics` invites, and take messages for reception.
+- Langfuse tracing with PII masking, plus a bilingual (IT/EN) eval dataset.
+- **Stack:** ElevenLabs Agents · Telnyx SIP · Groq · FastAPI · Supabase · Gmail · Langfuse · Docker
 
-## Featured Projects
+### 🔎 [rag-platform](https://github.com/Magesh-Sundaravel/rag-platform)
+RAG platform with hybrid retrieval, vector search, reranking, evaluation and observability.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 💸 [FinAI](https://github.com/Magesh-Sundaravel/FinAI)
+Finance AI agents that parse, categorize and analyze expenses, with receipt OCR and a Text-to-SQL agent.
 
-### 🔍 RAG Platform
-
-Production-grade RAG platform built around **hybrid retrieval, vector search, re-ranking, evaluation, observability, and scalable microservices architecture**.
-
-Designed beyond a basic RAG demo with emphasis on reliability, evaluation, deployment, and production engineering.
-
-**Core stack**
-
-`LangChain` `pgvector` `PostgreSQL` `Redis` `Docker` `Kubernetes` `OpenTelemetry`
-
-[View repo →](https://github.com/Magesh-Sundaravel/rag-platform)
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 FinAI — Finance AI Agents
-
-AI-powered personal finance platform that automatically **parses, categorises, and analyses expenses** using intelligent agents.
-
-Features Gemini-powered receipt OCR, a secured **Text-to-SQL agent**, multi-year expense analysis, PostgreSQL and production deployment on Google Cloud Run.
-
-**Core stack**
-
-`Gemini` `Text-to-SQL` `PostgreSQL` `GCS` `Cloud Run` `React`
-
-[View repo →](https://github.com/Magesh-Sundaravel/FinAI)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Agentic Lead Generation
-
-Autonomous AI pipeline that **discovers leads, evaluates prospects using LLMs, and generates personalised cold emails**.
-
-Designed as an agentic workflow that can run locally or on AWS using serverless orchestration.
-
-**Core stack**
-
-`LLM` `Agents` `AWS Lambda` `Step Functions` `EC2` `Serper API`
-
-[View repo →](https://github.com/Magesh-Sundaravel/ai-lead-gen-agent)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Agentic Company Brain
-
-Built a **multi-source enterprise AI agent** that answers natural-language questions across CRM, ERP, call logs, and internal company knowledge.
-
-Developed **solo in 6 hours** during the Yellow × Cursor Hackathon in Milan, with dynamic tool routing, grounded responses, source attribution, knowledge-graph visualization, and RAGAS evaluation.
-
-**Core stack**
-
-`LangGraph` `Llama 3.3 70B` `BM25` `RAGAS` 
-
-[View repo →](https://github.com/Magesh-Sundaravel/agentic-company-brain)
-
-</td>
-</tr>
-</table>
-
-
--------
-
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Magesh-Sundaravel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magesh-Sundaravel&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=jupyter%20notebook,html,css,javascript,typescript,shell" />
-
-<img src="https://streak-stats.demolab.com?user=Magesh-Sundaravel&theme=dark&hide_border=true" />
-
-</div>
+### 🧠 [company-brain-ai-agent](https://github.com/Magesh-Sundaravel/company-brain-ai-agent)
+Agentic assistant over CRM, ERP, call logs and internal docs, built with LangGraph, FastAPI and RAG. Delivered as a working multi-source agent in a **6-hour hackathon**.
 
 ---
 
-## Recognition
+## 🛠️ Tech Stack
 
-* **IEEExtreme 18.0** — Ranked ~2,500 / 80,000 teams globally (top 3%)
-* **MSc Industrial Automation** — Università di Pavia
-* **Machine Learning** — Coursera
-* **Generative AI with LangChain** — Udemy
-* **OpenCV Bootcamp**
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**LLMs & Agents**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat)
+
+**Backend, Data & Voice**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white)
+![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
-## Connect
+## 🎓 Education & Certifications
 
-<div align="center">
+- **Master's Degree, Industrial Automation**: Università di Pavia (2020 – 2024)
+- **Anthropic:** Introduction to MCP · Building with the Claude API · Claude Code in Action · AI Fluency
+- **Coursera:** Machine Learning Specialization
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/magesh-sundaravel)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:magesh094@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Magesh-Sundaravel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://Magesh-Sundaravel.github.io)
+🌍 English (full professional) · Italian (conversational)
 
-</div>
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-magesh094%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:magesh094@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-magesh--sundaravel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/magesh-sundaravel)
