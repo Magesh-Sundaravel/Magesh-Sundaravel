@@ -1,94 +1,61 @@
-# Hi, I'm Magesh 👋
+# Magesh Sundaravel
 
-**AI Engineer · RAG · AI Agents · Agentic AI** · Pavia / Milan, Italy
+**AI Engineer** · RAG · AI Agents · Voice Agents · Milan, Italy
 
-> AI systems that ship, not just prototypes.
+I build LLM systems for production: retrieval pipelines, tool-calling agents and the data pipelines behind them. For a year I was the only engineer at a Milan fashion-tech startup, so I owned everything from design to evals, deployment and cost.
 
-I build production LLM systems: hybrid retrieval pipelines, tool-calling agents, voice agents, and the data pipelines that feed them. I spent a year as the **sole engineer** at a Milan fashion-tech startup, taking AI features from idea to production.
-
-🟢 **Open to AI Engineer / GenAI Engineer roles in Milan. Available now.**
-
----
-
-## 💼 Experience
-
-**AI Engineer · Lookalike S.r.l. (Multimodal AI Shopping), Milan** · *May 2025 – May 2026*
-
-- **Voice-driven product search:** designed and deployed a hybrid retrieval pipeline (multilingual embeddings + BM25 + RRF fusion + reranking) over a multi-million product catalog, with a large recall gain over a vector-only baseline.
-- **Catalog ETL:** built the pipeline that pulls Amazon and eBay product data into one unified catalog, with rate-limit retries and deduplication.
-- **Agentic customer support:** built a support agent on Amazon Bedrock that reads tickets, calls order/shopping APIs, handles order updates, refunds and human escalation, and routes between models to keep costs down.
+**Open to AI Engineer roles in Milan. Available now.**
+[magesh094@gmail.com](mailto:magesh094@gmail.com) · [LinkedIn](https://linkedin.com/in/magesh-sundaravel)
 
 ---
 
-## 🚀 Featured Projects
+## How I build
 
-### 🎨 [creative-ops-agent](https://github.com/Magesh-Sundaravel/creative-ops-agent) · *in progress*
-Agentic system that takes a fashion/lifestyle creative brief from intake to agency handoff.
-- Extracts structured fields from messy briefs, lists what the client left out, and flags when a human must review. Missing fields are computed in code, not guessed by the model.
-- Hand-written agent loop on the Claude API (no frameworks), with a coordinator, specialist subagents and a mock MCP client stack.
-- **Stack:** Python · Claude API · MCP · Pydantic · FastAPI · Streamlit · pytest
-
-### 📞 [hotel-voice-agent](https://github.com/Magesh-Sundaravel/hotel-voice-agent) · *in progress*
-24/7 AI hotel receptionist that answers phone calls in Italian and English.
-- ElevenLabs Agents handle speech and turn-taking. FastAPI tool webhooks check availability and rates, create/modify/cancel bookings, send Gmail confirmations with `.ics` invites, and take messages for reception.
-- Langfuse tracing with PII masking, plus a bilingual (IT/EN) eval dataset.
-- **Stack:** ElevenLabs Agents · Telnyx SIP · Groq · FastAPI · Supabase · Gmail · Langfuse · Docker
-
-### 🔎 [rag-platform](https://github.com/Magesh-Sundaravel/rag-platform)
-RAG platform with hybrid retrieval, vector search, reranking, evaluation and observability.
-
-### 💸 [FinAI](https://github.com/Magesh-Sundaravel/FinAI)
-Finance AI agents that parse, categorize and analyze expenses, with receipt OCR and a Text-to-SQL agent.
-
-### 🧠 [company-brain-ai-agent](https://github.com/Magesh-Sundaravel/company-brain-ai-agent)
-Agentic assistant over CRM, ERP, call logs and internal docs, built with LangGraph, FastAPI and RAG. Delivered as a working multi-source agent in a **6-hour hackathon**.
+- **Evals before features.** Each agent gets a golden dataset and tracing (Langfuse) before I tune prompts.
+- **Code where code is enough.** Validation, routing rules and anything that has to be correct stay deterministic. The LLM handles only what needs judgment.
+- **Hybrid retrieval by default.** Dense + BM25 + fusion + reranking, measured with recall@k instead of judged by eye.
+- **Cost is part of the design.** Route easy work to small models and save large models for hard cases.
+- **Humans in the loop on purpose.** Agents flag ambiguity and escalate instead of guessing.
 
 ---
 
-## 🛠️ Tech Stack
+## Production experience: Lookalike S.r.l., Milan (2025 – 2026)
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+Sole AI engineer at a multimodal AI shopping startup.
 
-**LLMs & Agents**
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
-![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat)
-
-**Backend, Data & Voice**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white)
-![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+- **Voice-to-product search.** Hybrid retrieval over a multi-million product catalog (multilingual embeddings, BM25, RRF, Cohere rerank). It clearly beat the vector-only baseline on recall@5.
+- **Agentic customer support on Amazon Bedrock.** Reads tickets, calls order/shopping APIs, runs refunds and order updates, and escalates to humans. Haiku/Sonnet routing keeps cost per ticket low.
+- **Catalog ETL.** Pulls Amazon + eBay data into one catalog, with rate-limit-aware retries and key-based deduplication.
 
 ---
 
-## 🎓 Education & Certifications
+## Featured work
 
-- **Master's Degree, Industrial Automation**: Università di Pavia (2020 – 2024)
-- **Anthropic:** Introduction to MCP · Building with the Claude API · Claude Code in Action · AI Fluency
-- **Coursera:** Machine Learning Specialization
+### [creative-ops-agent](https://github.com/Magesh-Sundaravel/creative-ops-agent) · *active*
+Takes a fashion/lifestyle creative brief from intake to agency handoff.
+- Raw Claude API agent loop (no framework), with a coordinator, specialist subagents and a mock MCP server standing in for client systems (asset library, tracker, brand guidelines).
+- **Design choice:** missing brief fields are computed in code, not by the model. Vague wording is raised as an ambiguity for a human, never filled in.
+- Built with a Claude Code team setup: rules, hooks, subagents, CI.
+- `Python 3.12 · Claude API · MCP · Pydantic · FastAPI · Streamlit · pytest · uv`
 
-🌍 English (full professional) · Italian (conversational)
+### [hotel-voice-agent](https://github.com/Magesh-Sundaravel/hotel-voice-agent) · *active*
+24/7 receptionist that answers phone calls in Italian and English.
+- ElevenLabs Agents handle speech and turn-taking. FastAPI tool webhooks handle availability, rates and booking create/modify/cancel, send Gmail confirmations with `.ics` invites, and take messages for reception.
+- Bilingual IT/EN golden eval set. Langfuse tracing with phone numbers and emails masked.
+- `ElevenLabs Agents · Telnyx SIP · Groq · FastAPI · Supabase · Langfuse · Docker`
+
+### Also
+- [**rag-platform**](https://github.com/Magesh-Sundaravel/rag-platform): hybrid retrieval, reranking, evaluation and observability in one RAG service.
+- [**company-brain-ai-agent**](https://github.com/Magesh-Sundaravel/company-brain-ai-agent): LangGraph agent over CRM, ERP and call logs, built in a 6-hour hackathon.
+- [**FinAI**](https://github.com/Magesh-Sundaravel/FinAI): expense agents with receipt OCR and Text-to-SQL.
 
 ---
 
-## 📫 Contact
+## Stack
 
-[![Email](https://img.shields.io/badge/Email-magesh094%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:magesh094@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-magesh--sundaravel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/magesh-sundaravel)
+**Core:** Python, TypeScript, SQL · FastAPI · PostgreSQL + pgvector
+**LLM:** Claude, OpenAI, Gemini, Groq · LangGraph · MCP · tool calling, structured outputs, model routing
+**Eval & ops:** Langfuse · pytest · Docker · GitHub Actions
+**Cloud:** AWS (Bedrock, EC2, S3, ECR) · GCP (Cloud Run, Cloud SQL, Vertex AI)
+
+MSc Industrial Automation, Università di Pavia · English (professional), Italian (conversational)
