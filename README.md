@@ -53,9 +53,21 @@ Takes a fashion/lifestyle creative brief from intake to agency handoff.
 
 ## Stack
 
-**Core:** Python, TypeScript, SQL · FastAPI · PostgreSQL + pgvector
-**LLM:** Claude, OpenAI, Gemini, Groq · LangGraph · MCP · tool calling, structured outputs, model routing
-**Eval & ops:** Langfuse · pytest · Docker · GitHub Actions
-**Cloud:** AWS (Bedrock, EC2, S3, ECR) · GCP (Cloud Run, Cloud SQL, Vertex AI)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20%2B%20pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat)
+
+![AWS](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 MSc Industrial Automation, Università di Pavia · English (professional), Italian (conversational)
