@@ -70,4 +70,3 @@ Takes a fashion/lifestyle creative brief from intake to agency handoff.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-MSc Industrial Automation, Università di Pavia · English (professional), Italian (conversational)
