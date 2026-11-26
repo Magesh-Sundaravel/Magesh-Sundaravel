@@ -70,4 +70,5 @@ Takes a fashion/lifestyle creative brief from intake to agency handoff.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+## GitHub activity
 <p align="left"> <a href="https://github.com/Magesh-Sundaravel"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Magesh-Sundaravel&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"> <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Magesh-Sundaravel&hide_border=true&date_format=j%20M%5B%20Y%5D"> </picture> </a> </p>
